@@ -1,0 +1,10 @@
+{
+	"id": "com.obtiva.rss-fu",
+	"version": "0.0.1",
+	"vendor": "Obtiva",
+	"type": "web",
+	"main": "index.html",
+	"title": "RSS-FU",
+	"icon": "icon.png"
+}
+
